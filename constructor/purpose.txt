@@ -1,0 +1,16 @@
+purpose ot destructor
+
+
+->perform the cleanup activities
+
+->close the  database connection
+->close the file connection
+->save the log file
+->write activity Logs-End Time
+->Free up the resources
+
+->save the properties into a file
+
+->save the cache
+
+->serialize the objects

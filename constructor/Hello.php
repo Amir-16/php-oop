@@ -17,7 +17,7 @@ function __destruct(){
 
 }
 
-$hlw = new Hello();
+$obj = new Hello();
 
 
  ?>
