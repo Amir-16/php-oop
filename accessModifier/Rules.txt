@@ -1,0 +1,12 @@
+// there are 3 types of modifier
+
+->public,
+->private,
+->protected
+
+
+//access modifier syntax never can put before classs
+
+//private only access in class
+
+//to access  private method need getter & setter method
