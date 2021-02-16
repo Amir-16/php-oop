@@ -30,5 +30,4 @@ $local->setName("Khulshi");
 $local->block();
 
 
-//find bug
 // echo "$local->name is a Reknown Area";
