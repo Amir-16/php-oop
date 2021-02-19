@@ -1,0 +1,15 @@
+///main purpose 
+
+one of the most important concepts of oop
+//reusuability
+
+//child class inherite the parents class
+
+//multiple inheritance not possible ..one class can only inherit one
+
+//overriding of methods
+
+//protected access modifier
+
+
+//Grandfather+Mother->Parents->Child
