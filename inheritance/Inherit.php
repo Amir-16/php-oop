@@ -13,9 +13,11 @@ class University{
 class Professor extends University{
 
 	public $ProfessorName ="Smith";
-
-	function prof(){
+			function prof(){
 		echo "Hlw from $this->ProfessorName Professor of Computer Science Department".PHP_EOL;
+	}
+
+ 		
 	}
 
 

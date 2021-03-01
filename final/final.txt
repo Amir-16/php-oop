@@ -1,0 +1,15 @@
+#final keyword works as anti inherit
+
+#final keywords
+
+#final keyword protect child class to inherit from parent class
+
+# final keyword uses in class
+
+
+#class as final =>prevent Inheritance
+
+#method as final =>prevent overriding
+
+
+#create windowdriver class & restrict inheritanc
