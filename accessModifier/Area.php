@@ -12,9 +12,9 @@ class Area{
 		return $this->name;
 	}
 
-	function setName($name) :string{
+	function setName($name) {
 		$this->name =$name;
-		return $name;
+		//return $name;
 	}
 
 	function block(){
