@@ -1,6 +1,4 @@
-
 <?php
-
 
 class Product{
 
@@ -12,7 +10,6 @@ class Product{
             self::$total = $unit * $price;
            
     }
-
 }
 
 Product::sell(18 , 1000);
