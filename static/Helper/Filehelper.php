@@ -19,10 +19,9 @@ class FileHelper{
             return true;
         }
     }
-
 }
 
-if(FileHelper::hasData("test.txt")){
+if(FileHelper::hasData("self.txt")){
     echo "get file Data";
 }else{
 

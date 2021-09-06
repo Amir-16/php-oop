@@ -1,3 +1,0 @@
-#Single Responsiblity Principle
-
-one class One Responsibility

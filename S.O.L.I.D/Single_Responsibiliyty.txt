@@ -1,0 +1,8 @@
+#Single Responsiblity Principle
+
+one class One Responsibility
+
+class should  define a single purpose & also all the method and properties should work on single purpose
+
+
+#Any new change to the class is only to inhance its feature not depending on other dependency

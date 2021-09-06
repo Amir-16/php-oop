@@ -1,0 +1,11 @@
+
+
+#Open for extentions & close for modifications
+
+
+
+1: A class should always be extended rather it can be modified
+
+2: child class chnages should not affect the Parent class to change
+
+3:child class should extended parent without modifying the Parent classs 
