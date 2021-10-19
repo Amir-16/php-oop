@@ -1,0 +1,60 @@
+OOP focuses on the objects that are
+required to be manipulated instead of logic. 
+- It makes development and maintenance easier
+- It provides data hiding
+- It provides ability to simulate real-world
+- less memory and organized
+- reusable
+
+OOP language follow 4 principles:
+1-ENCAPSULATION: We can hide direct access
+to data by using private key and we can access
+private data by using getter and
+setter method. in my framework I have POJO
+class which I use it when we need to represent
+some data as Java object. So to that we need to 
+create a Java class to represent it's data.
+So in POJO class I use encapsulation and 
+getter setter method to access them.
+
+2-ABSTRACTION: It is a process of hiding
+implementation details and showing only
+functionality to the user. Abstraction lets
+you focus on what the object does instead of how it does it.
+In my framework I have created my
+PageBase class as super
+class of the all page classes. 
+I have collected all common elements
+and functions into PageBase class and
+all other page classes extent PageBase class.
+By doing so, I don't have to locate very
+common WebElements and it provides
+reusability in my framework.
+
+3-INHERITANCE: It is used to define the
+relationship between two classes. When a
+child class acquires all properties and
+behaviors of parent class known as inheritance.
+Child class can reuse all the codes written
+in parent class. It provides the code
+reusability. in my framework I have
+a TestBase class which I store 
+all my reusable code and methods.
+My test execution classes and 
+elements classes will extend the
+TestBase in order to reuse the code.
+
+4-: POLYMORPHISM: It is an ability of object
+to behave in multiple form. The most common use
+of polymorphism is Java, when a parent class reference
+type of variable is used to refer to a child
+class object.
+I use polymorphis almost everywhere
+It is an ability of object to behave in multiple
+form. The most common use of polymorphism is Java, when a
+parent class reference type of variable
+is used to refer to a child class object.
+E.g.: WebDriver driver = new ChromeDriver();
+JavaScriptExecuter js = (JavaScriptExecuter)Driver.getDriver;
+TakeScreenshot screen = (TakeScreenshot)Driver.getDriver;
+WebDriver driver = new ChromeDriver();

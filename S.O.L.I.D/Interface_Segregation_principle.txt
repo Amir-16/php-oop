@@ -1,0 +1,10 @@
+
+
+    Make fine grained interfaces that are client specifics
+
+
+    1:Apply client needs specifics methods
+
+    2:Too Many methods in one interface will force Class to implements them even it not related
+
+    

@@ -1,0 +1,8 @@
+
+
+
+1:Functions that use pointers to base classes must be able to use objects of derived classes without knowing it
+
+2:as means we should write class think a shape as if would be circle, rectangular ,
+ square we should write code as well as we dont have to change the base class 
+
