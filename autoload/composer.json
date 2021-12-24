@@ -11,5 +11,7 @@
             "email": "greenfitter516@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
 }
