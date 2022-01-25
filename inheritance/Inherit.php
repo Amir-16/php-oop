@@ -20,11 +20,18 @@ class Professor extends University{
  		
 	}
 
+class Search extends Professor{
 
-}
+		function getData(){
+			echo "testing the data";
+		}
+	}
 
 $prof1 =new Professor();
 $prof1->uni();
 $prof1->prof();
 
 echo $prof1->uniName.PHP_EOL;
+
+$data = new Search();
+$data->getData();
